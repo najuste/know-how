@@ -1,0 +1,12 @@
+#Git
+
+## Stash
+git stash push -m “name” // instead of just git stash, stash with a name
+git stash list
+
+git stash pop // the most recent
+git stash apply stash^{/<regex>} // git stash apply stash^{/name}
+git stash apply 0 = git stash apply stash@{0}
+
+git stash drop // the most recent
+git stash drop 0  = git stash drop stash@{0}
