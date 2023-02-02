@@ -2,7 +2,8 @@
 
 [Rules](https://anthonyhobday.com/sideprojects/saferules/) from Anthony Hobday:
 - Don’t use pure black or white, only near-black and near-white
-- Saturate your neutralsUse high contrast for important elements
+- Saturate your neutrals
+- Use high contrast for important elements
 - Everything in your design should be deliberate
 - Optical alignment is often better than mathematical alignment
 - Lower letter spacing and line height with larger text. Raise them with smaller text
