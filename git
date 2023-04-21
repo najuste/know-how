@@ -10,3 +10,11 @@ git stash apply 0 = git stash apply stash@{0}
 
 git stash drop // the most recent
 git stash drop 0  = git stash drop stash@{0}
+
+## Set the username/email for a specific repository
+
+git config user.name "Your project specific name"
+git config user.email "your@project-specific-email.com"
+
+git config --get user.name // verify
+git config --get user.email
